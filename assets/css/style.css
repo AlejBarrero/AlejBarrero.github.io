@@ -705,7 +705,7 @@ main {
 
 .modal-img-wrapper > img { display: none; }
 
-.modal-title { margin-bottom: 4px; }
+.modal-title { margin-bottom: 40px; }
 
 .modal-content time {
   font-size: var(--fs-6);
@@ -1880,4 +1880,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .timeline-text { max-width: 700px; }
 
+}
+
+
+#cajaFleming>li{
+  width: 100%;
 }
